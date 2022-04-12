@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\ConsultationsMédicales\ConsultationsMédicales\bin\Debug\ConsultationsMédicales.exe.config
+C:\Users\student\source\repos\ConsultationsMédicales\ConsultationsMédicales\bin\Debug\ConsultationsMédicales.exe
+C:\Users\student\source\repos\ConsultationsMédicales\ConsultationsMédicales\bin\Debug\ConsultationsMédicales.pdb
+C:\Users\student\source\repos\ConsultationsMédicales\ConsultationsMédicales\obj\Debug\ConsultationsMédicales.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\ConsultationsMédicales\ConsultationsMédicales\obj\Debug\ConsultationsMédicales.Form1.resources
+C:\Users\student\source\repos\ConsultationsMédicales\ConsultationsMédicales\obj\Debug\ConsultationsMédicales.Properties.Resources.resources
+C:\Users\student\source\repos\ConsultationsMédicales\ConsultationsMédicales\obj\Debug\ConsultationsMédicales.csproj.GenerateResource.cache
+C:\Users\student\source\repos\ConsultationsMédicales\ConsultationsMédicales\obj\Debug\ConsultationsMédicales.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ConsultationsMédicales\ConsultationsMédicales\obj\Debug\ConsultationsMédicales.exe
+C:\Users\student\source\repos\ConsultationsMédicales\ConsultationsMédicales\obj\Debug\ConsultationsMédicales.pdb
+C:\Users\student\source\repos\ConsultationsMédicales\ConsultationsMédicales\obj\Debug\ConsultationsMédicales.csproj.SuggestedBindingRedirects.cache
